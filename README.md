@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nuggit4123
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning the godot engine
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me jingusbingus202@gmail.com
